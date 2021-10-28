@@ -121,6 +121,8 @@
                 </div>
 
                 <p>
+                <h5>Statistik Suhu Kolam hari ini</h5>
+                <p>
 
                     {!! $chart->container() !!}
 
